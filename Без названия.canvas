@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"file","file":"Folder1/Test1 from Folder1.md","id":"b2eb95c24c4dc87d","x":-120,"y":-253,"width":400,"height":400},
+		{"id":"668dcd4a9ec97776","x":320,"y":-253,"width":400,"height":400,"type":"file","file":"Folder2/Test1 form Folder2.md"}
+	],
+	"edges":[]
+}
