@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "463cef504d0127af",
+        "id": "7c04784434afbc7a",
         "type": "tabs",
         "children": [
           {
-            "id": "b2c1a8416e4e81ba",
+            "id": "5be3fb8a1e6f117e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/2. Архитектура Hyperledger Fabric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cefc33dd27f4c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/2. Архитектура Hyperledger Fabric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea861d53b48cf089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Платформы блокчейн/Hyperledger Fabric/Термины и определения.md",
-                "mode": "source",
+                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/3. Блокчейн-сеть.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/2. Архитектура Hyperledger Fabric.md",
+                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/3. Блокчейн-сеть.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/2. Архитектура Hyperledger Fabric.md",
+                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/3. Блокчейн-сеть.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/2. Архитектура Hyperledger Fabric.md"
+                "file": "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/3. Блокчейн-сеть.md"
               }
             }
           },
@@ -180,8 +156,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
       "canvas:Создать новый холст": false,
+      "graph:Граф": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
@@ -192,12 +168,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b2c1a8416e4e81ba",
+  "active": "5be3fb8a1e6f117e",
   "lastOpenFiles": [
-    "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/3. Блокчейн-сеть.md",
     "Платформы блокчейн/Hyperledger Fabric/Термины и определения.md",
     "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/1. Вступление.md",
+    "Без названия.canvas",
     "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/2. Архитектура Hyperledger Fabric.md",
+    "Платформы блокчейн/Hyperledger Fabric/Ключевые идеи/3. Блокчейн-сеть.md",
     "Платформы.md",
     "[[/Платформы.md",
     "[[",
@@ -222,7 +199,6 @@
     "images/images.jpg",
     "images",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "Excalidraw/Drawing 2023-04-12 15.33.02.excalidraw.md",
     "Excalidraw/Drawing 2023-04-12 15.30.35.excalidraw.md",
     "2023-04-12.md",
