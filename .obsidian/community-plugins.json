@@ -4,5 +4,7 @@
   "obsidian-tasks-plugin",
   "obsidian-livesync",
   "obsidian-git",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-kanban",
+  "obsidian-languagetool-plugin"
 ]
